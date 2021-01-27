@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346316997214",
+    "project_id": "lawnicsazad",
+    "storage_bucket": "lawnicsazad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346316997214:android:5dcc562e56d80767b4eacf",
+        "android_client_info": {
+          "package_name": "com.example.lawnicsazad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346316997214-39ejqu01dbe1li9onh474tkg8cecoj7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lawnicsazad",
+            "certificate_hash": "d9b7b062b2d72b16719530ca06811c527c5effc7"
+          }
+        },
+        {
+          "client_id": "346316997214-svbu0fe8tn9is77g3s197uburt96nhtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrivkPqk6pgKdanXLY44WQK5HHhp0cPn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346316997214-svbu0fe8tn9is77g3s197uburt96nhtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
